@@ -94,7 +94,6 @@ button:hover{
 button:active{
     transform: translate(0,0.3rem);
     box-shadow: 0 0.1rem rgba(255,255,255,0.65);
-    outline: none;
 }
 
 .twitter-btn:hover{
